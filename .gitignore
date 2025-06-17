@@ -1,0 +1,6 @@
+./data
+.env
+.idea
+.venv
+**/__pycache__/
+gospel_tts
